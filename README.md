@@ -15,12 +15,19 @@ The analysis involved a combination of descriptive statistics, data visualizatio
 
 ## Results
 Based on the analysis, we can draw some preliminary insights about:
+
 Correlation between actual price and discount price of product
+
 Products with rating with 5.0
+
 Lowest rated products
+
 Total number of products in each category
+
 Customer satisfaction score
+
 Average difference between actual price and discounted price
+
 Distribution of ratings etc.
 
 
